@@ -1,6 +1,7 @@
 # Proyecto Clasificación
 
-![Banner](https://cdn.discordapp.com/attachments/1256163438091178035/1365782346703437986/Banner_Proyectos.png?ex=680e8f6e&is=680d3dee&hm=4aece3b29af171a6c49495b1d0a6e4bef4164918c0ca1ace04f9310f7241ec4b&)
+<img width="11520" height="3456" alt="DA-Clasificacion" src="https://github.com/user-attachments/assets/d60d0f98-c731-4a1e-83e6-0f65ad0b433b" />
+
 
 ## 📝 Descripción del Proyecto
 
